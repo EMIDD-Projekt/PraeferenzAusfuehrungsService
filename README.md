@@ -11,10 +11,12 @@ a) lokale Ausführung
 
 b) Ausführung als Cloud-Service
 
-### Lokale Ausführung
+### a) Lokale Ausführung
 Es wird die Nutzng einer vituellen Umgebung [(_virtualenv_)](https://www.dpunkt.de/common/leseproben//12951/2_Ihre%20Entwicklungsumgebung.pdf#page=15) empfohlen.
 
     >> pip install -r requirements.txt
 
     >> python PolProxServ.py
 
+### b) Ausführung als Cloud Service
+tbd.
