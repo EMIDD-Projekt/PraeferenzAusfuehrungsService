@@ -16,5 +16,5 @@ Es wird die Nutzng einer vituellen Umgebung [(_virtualenv_)](https://www.dpunkt.
 
     >> pip install -r requirements.txt
 
-    >> python execution.py
+    >> python PolProxServ.py
 
